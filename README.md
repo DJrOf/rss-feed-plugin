@@ -1,4 +1,4 @@
-## RSS Feed Reader Plugin
+## RSS Feed Reader Extism Plugin
 
 Build
 
