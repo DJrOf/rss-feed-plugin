@@ -1,10 +1,10 @@
 ## RSS Feed Reader Plugin
 
-##Build
+Build
 
 `npm run build`
 
-##Test
+Test
 
 `extism call plugin.wasm run --input="https://bitcoinnews.com/feed/" --wasi --allow-host="*" --log-level=info`
 
